@@ -11,7 +11,7 @@ function About(){
                 <div className="container">
                     <h4><b>A Simple Weather Application</b></h4> 
                     <p>Developed with OpenWeatherMap API</p>
-                    <a href="https://openweathermap.com/" target="_blank" rel="noreferrer">Here</a> 
+                    <a href="https://openweathermap.org/" target="_blank" rel="noreferrer">Here</a> 
                 </div>
             </div>
         </div>
