@@ -10,8 +10,8 @@ function About(){
             </div>
                 <div className="container">
                     <h4><b>A Simple Weather Application</b></h4> 
-                    <p>Developed with WeatherStack API</p>
-                    <a href="https://weatherstack.com/" target="_blank" rel="noreferrer">Here</a> 
+                    <p>Developed with OpenWeatherMap API</p>
+                    <a href="https://openweathermap.com/" target="_blank" rel="noreferrer">Here</a> 
                 </div>
             </div>
         </div>

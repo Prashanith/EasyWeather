@@ -30,14 +30,8 @@ function Weather() {
       </form>
       <div className="weatherData">
       {           
-        data?        
-          (
-            (data.success===undefined)?
-            <WeatherData data={data}/>
-
-            :<div className="errorInfo">{ data['error']['info']}</div>
-          )
-          :<div>Loading...</div>
+        
+          data && <WeatherData data={data}/> 
          
        }
        {
