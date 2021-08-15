@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import './components/NavigationBar/Navbar'
 import NavBar from './components/NavigationBar/Navbar';
 import Weather from './components/Weather/Weather.js';
